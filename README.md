@@ -1,5 +1,3 @@
-# esp32-mqtt-example
-
 # ESP32 MQTT Sensor Demo
 
 A two-part project: an **ESP32 firmware** that reads sensor data and publishes it over MQTT, and a **Python subscriber** that receives and prints those readings in real time.
